@@ -1,0 +1,5 @@
+Artículo 1º.- De la Naturaleza Jurídica.
+La Dirección Regional Sectorial de Transportes y Comunicaciones del Gobierno Regional de Lima que en adelante se denominará “Dirección Regional Sectorial de Transportes y Comunicaciones de Lima”, constituye un órgano desconcentrado del Gobierno Regional de Lima responsable de la implementación, ejecución y administración de los Planes y Políticas en materia de Transportes y Comunicaciones del Gobierno Regional de Lima, así como de fiscalizar y supervisar el cumplimiento del marco normativo aplicable al sector de su competencia, en armonía con la política regional y nacional.
+Son objetivos de la Dirección Regional Sectorial de Transportes y Comunicaciones de Lima los siguientes:
+a. Desarrollar una adecuada infraestructura de vías de transporte que dinamice y posibilite la articulación y la generación de espacios socioeconómicos al interior del ámbito del Gobierno Regional de Lima.
+b. Lograr el desarrollo sostenible de los servicios de comunicaciones y el acceso a los mismos, propiciando la innovación tecnológica y velando por la asignación racional y el uso eficiente de los recursos.
