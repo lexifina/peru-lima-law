@@ -1,0 +1,1 @@
+Artículo 1º.- El presente Reglamento tiene por finalidad establecer pautas, procedimientos y responsabilidades para el desarrollo del Proceso del Presupuesto Participativo Basado en Resultados en el ámbito del Gobierno Regional de Lima.
