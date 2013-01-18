@@ -1,0 +1,1 @@
+Artículo Segundo.- ESTABLECER que la Condecoración General Don José de San Martín en el Grado de Gran Libertador de la República, constituye la más alta distinción que otorga el Gobierno Regional de Lima.
