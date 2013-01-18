@@ -1,0 +1,10 @@
+Artículo Quinto.- La presente Ordenanza se publicará en el Diario Oficial El Peruano, en un diario de circulación regional y en el portal del Gobierno Regional de Lima (www.regionlima.gob.pe).
+En Huacho, a los siete días del mes de diciembre del dos mil doce.
+POR TANTO:
+Comuníquese al señor Presidente del Gobierno Regional de Lima para su promulgación.
+OSWALDO MERINO ESPINAL
+Consejero Delegado
+Mando se comunique, publique y cumpla.
+Dado en la ciudad de Huacho, sede central del Gobierno Regional de Lima, a los once días del mes de diciembre del dos mil doce.
+JAVIER ALVARADO GONZÁLES DEL VALLE
+Presidente Regional
