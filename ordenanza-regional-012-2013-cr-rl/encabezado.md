@@ -1,0 +1,30 @@
+Ordenanza Regional
+Nº 012-2013-CR-RL
+EL PRESIDENTE DEL GOBIERNO REGIONAL DE LIMA
+POR CUANTO:
+El Consejo Regional del Gobierno Regional de Lima en su Sesión Extraordinaria del día 20 de agosto del 2013 en la ciudad de Huacho, ha aprobado la Ordenanza Regional siguiente:
+VISTO: Pedido del Consejero Delegado, Lic. Anselmo Eleuterio Ventocilla Villareal; por el cual, solicita que se agende en la próxima Sesión Extraordinaria del Consejo Regional el Oficio Nº 465-2013-GRL/PRES del Presidente Regional, por el cual remite el Proyecto de Ordenanza Regional sobre modificación del Cuadro para Asignación de Personal - CAP de la Unidad Ejecutora 001 Región Lima.
+CONSIDERANDO:
+Que, de acuerdo al Artículo 191 de la Constitución Política del Perú, los Gobiernos Regionales tienen autonomía política, económica y administrativa en los asuntos de su competencia;
+Que, como es sabido, la Ley Nº 27783, Ley de Bases de Descentralización, establece como uno de los principios y características de la Descentralización el ser gradual, esto es, que el proceso de descentralización se realiza por etapas en forma progresiva y ordenada, conforme a criterios que permitan una adecuada y clara asignación de competencias y transferencias de recursos del Gobierno Nacional hacia los Gobiernos Regionales y Locales, evitando la duplicidad;
+Que, de acuerdo al Artículo 2 de la Ley Orgánica de Gobiernos Regionales, Ley Nº 27867, los Gobiernos Regionales emanan de la voluntad popular. Son personas jurídicas de derecho público, con autonomía política, económica y administrativa, en asuntos de su competencia, constituyendo, para su administración económica y financiera, un Pliego Presupuestal;
+Que, el Artículo 13 de la Ley Orgánica de Gobiernos Regionales, Ley Nº 27867, establece que el Consejo Regional es el órgano normativo y fiscalizador del Gobierno Regional. Le corresponde las funciones y atribuciones que se establecen en la Ley Orgánica de Gobiernos Regionales y aquellas que le sean delegadas;
+Que, por Ordenanza Regional Nº 013-2010-CR/RL se aprobó el Reglamento Interno del Consejo Regional; el mismo que, en su Artículo 2 establece que el Consejo Regional es el órgano supremo y representativo del Gobierno Regional. Ejerce las funciones normativas, fiscalizadoras, investigadoras, de fiscalización de la gestión ejecutiva y administrativa del Gobierno Regional y de la gestión y conducta pública de los funcionarios del mismo, y las demás que establece la Constitución Política del Estado, la Ley de Bases de la Descentralización Nº 27783 y la Ley Orgánica de Gobiernos Regionales Nº 27867, Ley Nº 28968 y la Ley Nº 29053, Ley que modifica la Ley 27867, Ley Orgánica de Gobiernos Regionales. Está integrado por los nueve Consejeros Regionales representantes de las provincias del Gobierno Regional de Lima elegidos de acuerdo a ley. En los documentos oficiales, el Consejo se denomina Consejo Regional de Lima;
+Que, el artículo 4 del Decreto Supremo Nº 043-2004-PCM, que aprueba los lineamientos para la elaboración y aprobación del Cuadro para Asignación de Personal – CAP de las Entidades de la Administración Pública, lo define como aquel: “Documento de gestión institucional que contiene los cargos definidos y aprobados de la Entidad, sobre la base de su estructura orgánica vigente prevista en su ROF”. Que, el artículo 4 del Decreto Supremo Nº 043-2004-PCM, define al Presupuesto Analítico de Personal – PAP como aquel: “Documento de gestión que considera las plazas y el presupuesto para los servicios específicos del personal permanente y eventual en función de la disponibilidad presupuestal”;
+Que, mediante Ordenanza Regional Nº 009-2012-CR-RL, se aprobó la creación de un órgano desconcentrado denominado Dirección Regional de Formalización de la Propiedad Rural – DIREFOR, como órgano dependiente de la Gerencia Regional de Desarrollo Económico del Gobierno Regional de Lima; y, en tal sentido, la modificación del Cuadro para Asignación de Personal – CAP de la Unidad Ejecutora 001 Región Lima, incluyendo los cargos previstos para operativizar el cumplimiento de las funciones transferidas en materia de formalización de la propiedad rural;
+Que, en lo que respecta a la Dirección Regional de Formalización de la Propiedad Rural – DIREFOR, el Cuadro para Asignación de Personal – CAP de la Unidad Ejecutora 001 Región Lima, incorporó 29 plazas repartidas en las siguientes áreas:
+- Dirección Regional: Tres (03) plazas
+- Sub Dirección de Asesoría Legal: Tres (03) plazas - Sub Dirección de CC.CC y Tierras Eriazas: Seis (06) plazas
+- Sub Dirección de Saneamiento Físico Legal y de Tierras Rurales: Seis (06) plazas
+- Sub Dirección de Calificación y Titulación: Cuatro (04) plazas
+- Sub Dirección de Catastro y Cartografía: Cuatro (04) plazas
+- Sub Dirección de Geodesia y Topografía: Tres (03) plazas
+Que, el artículo 16 del Decreto Supremo Nº 043-2004-PCM, dispone:
+“Artículo 16.- De la modificación del CAP.
+Las Entidades de la Administración Pública deberán modificar el Cuadro paraAsignaciónde Personal en los siguientes casos:
+a) Cuando la Entidad haya sufrido modificaciones en su ROF que conlleven cambios en sus funciones o en su estructura organizacional o por motivo de unaacción de racionalización o mejoramiento de procesos.
+b) Por motivo de reestructuración o reorganización aprobadas conforme a la normativa vigente.
+c) Por motivo de un reordenamiento de cargos que conlleve a una afectación de su Presupuesto Analítico de Personal - PAP.
+Cuando se verifique la existencia de cualquiera de los supuestos señalados en esteartículo, la Entidad se encontrará obligada a aprobar un nuevo CAP en los términosestablecidos en los artículos 14 y 15.
+De haber existido el reordenamiento de cargos previsto conforme al artículo 13, la Entidad deberá actualizar su CAP y publicarlo mediante Resolución de su Titular. La publicación deberá ser aprobada anualmente durante el primer bimestre de cada año bajo responsabilidad del titular del órgano responsable de la elaboración del CAP”.
+Que, el artículo 14 del Decreto Supremo Nº 043-2004-PCM, dispone:
