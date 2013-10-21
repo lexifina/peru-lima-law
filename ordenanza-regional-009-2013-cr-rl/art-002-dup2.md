@@ -1,0 +1,1 @@
+Artículo Segundo.- APROBAR, la modificación del Artículo 12 del Título III “De la Estructura Orgánica” e incorporación de los artículos 27A y 27B al Reglamento de Organización y Funciones (ROF) del Gobierno Regional de Lima, los cuales quedan redactados con los textos siguientes:

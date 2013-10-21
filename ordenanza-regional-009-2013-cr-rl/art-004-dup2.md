@@ -1,0 +1,1 @@
+Artículo Cuarto.- ENCARGAR a la Dirección Regional de Trabajo y Promoción del Empleo que en un plazo de 60 días hábiles contados a partir de la entrada en vigencia de la presente Ordenanza, elabore el Reglamento Interno de Funcionamiento del Consejo Regional de Trabajo y Promoción del Empleo.
