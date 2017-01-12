@@ -1,0 +1,1 @@
+Artículo Tercero.- DEROGAR toda disposición que se oponga a la presente Ordenanza Regional.
