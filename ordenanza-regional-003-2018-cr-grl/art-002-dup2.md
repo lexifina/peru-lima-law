@@ -1,0 +1,12 @@
+Artículo Segundo.- El Comité Consultivo Regional de Turismo (CCRT) del Gobierno Regional de Lima, estará integrada por las siguientes instituciones y dependencias:
+- Gerente Regional de Desarrollo Económico
+- Director Regional de Turismo y Comercio Exterior - Gerente Regional de Planeamiento, presupuesto y acondicionamiento Territorial.
+- Representantes de la Municipalidades Provinciales de las 09 Provincias del Gobierno Regional de Lima
+- Director y/o representante del Proyecto Especial Regional Plan COPESCO.
+- Otras instituciones que soliciten su incorporación y estén reconocidas.
+- Gerencia Regional de Recursos Naturales y Gestión del Medio Ambiente.
+- Gerencia Regional de Desarrollo Social de Lima. - Cámara de Comercio, Producción y Turismo de la Región Lima.
+- Asociación Peruana de Hoteles, Restaurantes y Afines de la Región Lima.
+- Asociaciones de Turismo.
+- Universidad Nacional José Faustino Sánchez Carrión.
+- Universidad Nacional de Cañete.
