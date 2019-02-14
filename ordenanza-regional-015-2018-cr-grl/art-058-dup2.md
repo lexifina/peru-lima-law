@@ -1,0 +1,2 @@
+Artículo 58.1º Mayoría Simple
+Los acuerdos en el Consejo Regional, salvo disposición contraria, se toman por mayoría simple, es decir, por mayoría de sus miembros hábiles presentes en la sesión; en caso de empate en la votación el Presidente del Consejo Regional tiene voto dirimente. Además del ejercicio de su voto como Consejero. La misma prerrogativa corresponde al Vicepresidente cuando actúe supliendo al Presidente.
