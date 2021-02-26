@@ -1,0 +1,1 @@
+artículo Segundo.- ENCARGAR, al Gobernador Regional, a la Gerencia General Regional del Gobierno Regional de Lima, efectúen las acciones administrativas y presupuestales necesarias y Disponga a la Dirección Regional de Agricultura como Unidad Ejecutora la implementación y cumplimiento de la presente ordenanza.
