@@ -1,0 +1,1 @@
+Artículo Tercero.- ENCARGAR a la Gerencia Regional de Recursos Naturales y Gestión del Medio Ambiente, para que impulse la Creación del Concejo de Cuenca Interregional. (Gobierno Regional de Lima – Gobierno Regional de Ancash).
