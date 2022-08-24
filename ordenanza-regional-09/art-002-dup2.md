@@ -1,0 +1,1 @@
+Artículo Segundo.- DEROGAR la Ordenanza regional Nº 006-2003-CR/GRL, y las demás disposiciones legales que aprueban el Reglamento de Organización y funciones - ROF de las Unidades de Organización del Gobierno regional de Lima que opongan a la Ordenanza Regional.
