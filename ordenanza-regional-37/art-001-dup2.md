@@ -1,0 +1,1 @@
+Artículo Primero.- APROBAR, la modificación del Texto Único de Procedimiento Administrativo (TUPA) del Gobierno Regional de Lima, quedando redactado el mismo como el anexo consolidado que se encuentra adjunto al presente.

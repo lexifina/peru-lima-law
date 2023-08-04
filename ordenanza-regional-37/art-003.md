@@ -1,0 +1,1 @@
+Artículo Tercero.- ENCARGAR a la Gerencia Regional de Administración del Gobierno Regional de Lima, realizar los trámites necesarios para actualizar los costos de procedimientos administrativos, debiendo coordinarse además con las unidades de organización respectivas para su implementación.
