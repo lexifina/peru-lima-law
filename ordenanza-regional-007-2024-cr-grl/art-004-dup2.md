@@ -1,0 +1,1 @@
+Artículo Cuarto.- DISPONER, la actualización del primer censo vitícola y vitivinícola en la región Lima 2017 - 2018, por parte de la Gerencia Regional de Desarrollo Económico, incorporando un capítulo referido al patrimonio mueble, inmueble e inmaterial de las bodegas artesanales tradicionales vitivinícolas de la región Lima.

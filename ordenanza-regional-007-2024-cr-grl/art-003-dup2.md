@@ -1,0 +1,1 @@
+Artículo Tercero.- DISPONER, la protección del uso de bodegas y cultivos patrimoniales, utensilios y procesos ancestrales para la elaboración del pisco, vinos y aguardientes de todos los productores artesanales de la región Lima.

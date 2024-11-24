@@ -1,0 +1,1 @@
+Artículo Quinto.- ENCARGAR al Gerente Regional de Desarrollo Económico a través de la Dirección Regional de Producción del Gobierno Regional de Lima, proceda a implementar las acciones administrativas, a fin de dar cumplimiento a la presente Ordenanza Regional previa disponibilidad presupuestaria.
