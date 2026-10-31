@@ -2380,6 +2380,538 @@
      "sha256": "938b8d91a33b9c46550c55a67f8f5e74fb3d122c085a097737c91609be764fd7"
     }
    ]
+  },
+  {
+   "slug": "ordenanza-regional-011-2013-cr-rl",
+   "short": "Ordenanza Regional N° 011-2013-CR-RL",
+   "title": "Ordenanza Regional N° 011-2013-CR-RL: Modifican y actualizan el Texto Único de Procedimientos Administrativos del Gobierno Regional de Lima",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1000821-1",
+   "versions": [
+    {
+     "from": "2013-10-19",
+     "units": 8,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/CHYCstWfKejA3NY6fn2tsK/*/1000821-1.pdf",
+     "sha256": "cead08dab3b08dcf8f0974282a90afa42a3eff3729c2d261582ffbc7314244de"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-001-2013-cr-rl",
+   "short": "Ordenanza Regional N° 001-2013-CR-RL",
+   "title": "Ordenanza Regional N° 001-2013-CR-RL: Aprueban el Reglamento que regula la prestación del Servicio de Transporte Terrestre de Personas, Carga y Mercancías en el Ámbito de la jurisdicción del Gobierno Regional de Lima",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/985892-1",
+   "versions": [
+    {
+     "from": "2013-09-12",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/4bOQh62SqdBBCOdBVGdCsO/*/985892-1.pdf",
+     "sha256": "7dbed2220a74dc496b713292cf7f084e363b8cc3a557570abc6f18ebfb92dbfa"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-016-2012-cr-rl",
+   "short": "Ordenanza Regional N° 016-2012-CR-RL",
+   "title": "Ordenanza Regional N° 016-2012-CR-RL: Aprueban Plan de Desarrollo Institucional 2012 - 2015",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/892034-1",
+   "versions": [
+    {
+     "from": "2013-01-25",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/5Um8mhX3KXTBIyS3QKRq1X/*/892034-1.pdf",
+     "sha256": "33d44e13b539c2c63a5c7b293e9b50ca7c7ea07896a5721bc069dca107c122bb"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-017-2012-cr-rl",
+   "short": "Ordenanza Regional N° 017-2012-CR-RL",
+   "title": "Ordenanza Regional N° 017-2012-CR-RL: Declaran el 9 de diciembre como el \"Día contra la Corrupción\" en el ámbito del Gobierno Regional de Lima",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/892034-2",
+   "versions": [
+    {
+     "from": "2013-01-25",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/1Mg3FDlZaTRAJdmbaIpXcu/*/892034-2.pdf",
+     "sha256": "0f72b0421256aa37811c02aaaf116844ea73e811c936ce7c4f47b61b5c5958b8"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-015-2012-cr-rl",
+   "short": "Ordenanza Regional N° 015-2012-CR-RL",
+   "title": "Ordenanza Regional N° 015-2012-CR-RL: Establecen acciones para brindar atención especial a niños, mujeres gestantes, adultos mayores y personas con discapacidad en reparticiones del Gobierno Regional",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/889005-4",
+   "versions": [
+    {
+     "from": "2013-01-18",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/3nFHNgRBqmMATxanQGbfNW/*/889005-4.pdf",
+     "sha256": "1751ad7550bcffa2d8fbc03304f33fcb403a86a74466d9c54d642123f1a8d742"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-013-2012-cr-rl",
+   "short": "Ordenanza Regional N° 013-2012-CR-RL",
+   "title": "Ordenanza Regional N° 013-2012-CR-RL: Aprueban el Reglamento de Condecoraciones del Gobierno Regional de Lima\n\n\n.",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/889005-2",
+   "versions": [
+    {
+     "from": "2013-01-18",
+     "units": 20,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/0EZNslIpaZDAmAMPX3PKpM/*/889005-2.pdf",
+     "sha256": "f9ff7d98ddfea2ca952e844dcf25c6623b6ef16e3455045c02bc9ed8d35db48f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-012-2012-cr-rl",
+   "short": "Ordenanza Regional N° 012-2012-CR-RL",
+   "title": "Ordenanza Regional N° 012-2012-CR-RL: Modifican el Reglamento de Organización y Funciones del Gobierno Regional de Lima",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/889005-1",
+   "versions": [
+    {
+     "from": "2013-01-18",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/61MS-vbJa5t9mSAvwxOReo/*/889005-1.pdf",
+     "sha256": "77a5aff4804bd7339adcc2743a9f1ae5431503556567dae57a86edf80db0ef07"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-014-2012-cr-rl",
+   "short": "Ordenanza Regional N° 014-2012-CR-RL",
+   "title": "Ordenanza Regional N° 014-2012-CR-RL: Declaran de necesidad prioritaria el cumplimiento de las normas establecidas a favor de las personas con discapacidad",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/889005-3",
+   "versions": [
+    {
+     "from": "2013-01-18",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/8lmbUe4w4209qAb168HY-C/*/889005-3.pdf",
+     "sha256": "99391b1baca4f702608950b161c9728fa9b8e34cba9a3a374c609b80398009e1"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-011-2012-cr-rl",
+   "short": "Ordenanza Regional N° 011-2012-CR-RL",
+   "title": "Ordenanza Regional N° 011-2012-CR-RL: Aprueban Texto Único de Procedimientos Administrativos de la Dirección Regional de Salud Lima y Hospitales, sus requisitos y costos administrativos",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/862062-3",
+   "versions": [
+    {
+     "from": "2012-11-08",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/Dqh-RjP-adp9OyOBCX7ZA4/*/862062-3.pdf",
+     "sha256": "30451b4b678a9897721d7217930c0332b6080c7e0b0d8da9fc0db93fe73a22ba"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-010-2012-cr-rl",
+   "short": "Ordenanza Regional N° 010-2012-CR-RL",
+   "title": "Ordenanza Regional N° 010-2012-CR-RL: Derogan la Ordenanza N° 006-2011-CR/RL",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/862062-2",
+   "versions": [
+    {
+     "from": "2012-11-08",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/6XE1DLFQKRBBP2mf8E7AOZ/*/862062-2.pdf",
+     "sha256": "57b4cec7b118d8afe54c996f29735d476c937a7f1c2b839b6e0ba3d44f10700a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-009-2012-cr-rl",
+   "short": "Ordenanza Regional N° 009-2012-CR-RL",
+   "title": "Ordenanza Regional N° 009-2012-CR-RL: Modifican el Reglamento de Organización y Funciones del Gobierno Regional, el Cuadro para Asignación de Personal de la Región Lima y aprueban el ROF y  CAP de la Dirección Regional de Formalización de la Propiedad Rural - DIREFOR",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/862062-1",
+   "versions": [
+    {
+     "from": "2012-11-08",
+     "units": 8,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/BOlHDzS0Kgw9Nui-BXpaFh/*/862062-1.pdf",
+     "sha256": "8c4089641df3d853f78fe259c75ba9a6d9986e1274928382442f268bb0390054"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-008-2012-cr-rl",
+   "short": "Ordenanza Regional N° 008-2012-CR-RL",
+   "title": "Ordenanza Regional N° 008-2012-CR-RL: Aprueban modificación del Cuadro de Asignación de Personal del Hospital de Chancay y Servicios Básicos de Salud para el proceso de Nombramiento del Año Fiscal 2012",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/823874-7",
+   "versions": [
+    {
+     "from": "2012-08-11",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/7iw07sS-aD_8M9RfuwosLz/*/823874-7.pdf",
+     "sha256": "295d342853b942a034f2920d04c016632c9a5f4fe279f928f22fd587e058f90a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-007-2012-cr-rl",
+   "short": "Ordenanza Regional N° 007-2012-CR-RL",
+   "title": "Ordenanza Regional N° 007-2012-CR-RL: Modifican Ordenanza N° 001-2012-CR-RL en lo referente al Cuadro para Asignación de Personal de la Unidad Ejecutora 001 Región Lima",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/823874-6",
+   "versions": [
+    {
+     "from": "2012-08-11",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/1K9eDLIbqI68d5Shuh8-E5/*/823874-6.pdf",
+     "sha256": "7054e582d8a6c96b5d663a5261393c4cf7eda8b97594ed75411387b6e1d51d5f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-006-2012-cr-rl",
+   "short": "Ordenanza Regional N° 006-2012-CR-RL",
+   "title": "Ordenanza Regional N° 006-2012-CR-RL: Aprueban modificación de los Cuadros para Asignación de Personal de la Dirección Regional de Salud Lima y de la Dirección de Red de Salud Canta",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/823874-5",
+   "versions": [
+    {
+     "from": "2012-08-10",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/7Pph7a_TKS3AcXJQ3XJyMU/*/823874-5.pdf",
+     "sha256": "f8de392c5c3f1c6c1f73f7a6501eab3d31a8ec4a47edb0f1d0d5a996b1008d86"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-005-2012-cr-rl",
+   "short": "Ordenanza Regional N° 005-2012-CR-RL",
+   "title": "Ordenanza Regional N° 005-2012-CR-RL: Aprueban Reglamento para el Desarrollo del Proceso del Presupuesto Participativo Basado en Resultados para el Año Fiscal 2013, en el ámbito del Gobierno Regional de Lima",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/823874-4",
+   "versions": [
+    {
+     "from": "2012-08-10",
+     "units": 40,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/BI8RXsQV4e4AwtHKUmIp9q/*/823874-4.pdf",
+     "sha256": "bebe7fb82df9c85b85dd37e8d85cfceb763503961b8f76a8b121afa41c29b1f0"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-003-2012-cr-rl",
+   "short": "Ordenanza Regional N° 003-2012-CR-RL",
+   "title": "Ordenanza Regional N° 003-2012-CR-RL: Aprueban Reglamento de Organización y Funciones de la Dirección Regional de Transportes y Comunicaciones y modifican el Cuadro para Asignación de Personal de la Unidad Ejecutora Lima 001 Región Lima",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/823874-2",
+   "versions": [
+    {
+     "from": "2012-08-09",
+     "units": 39,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/1ADq67XM4GSAmtgE1lyRNh/*/823874-2.pdf",
+     "sha256": "1088b9f84e3b72e4b5bbae785cb622cb5e978af89d32dab7797379c8dce3385f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-004-2012-cr-rl",
+   "short": "Ordenanza Regional N° 004-2012-CR-RL",
+   "title": "Ordenanza Regional N° 004-2012-CR-RL: Aprueban Proyecto Educativo Regional PER CARAL 2021",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/823874-3",
+   "versions": [
+    {
+     "from": "2012-08-09",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/Cubu7rH_KxpBDfarUXEs4x/*/823874-3.pdf",
+     "sha256": "d454d619ed431e16f711ef93836cc77c0c5347960e201b5ab943c5d505d36fe2"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-002-2012-cr-rl",
+   "short": "Ordenanza Regional N° 002-2012-CR-RL",
+   "title": "Ordenanza Regional N° 002-2012-CR-RL: Aprueban Plan Estratégico Regional Multisectorial para la prevención y control de las ITS y VIH/SIDA en la Región Lima 2011 - 2016",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/823874-1",
+   "versions": [
+    {
+     "from": "2012-08-09",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/7z2ROGa9a5i9z5VSKAPeWG/*/823874-1.pdf",
+     "sha256": "8418ab806420bd53b63863f4b778a48b290fa05ca50be1ae4b28d6f0440cd3a7"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-006-2011-cr-rl",
+   "short": "Ordenanza Regional N° 006-2011-CR-RL",
+   "title": "Ordenanza Regional N° 006-2011-CR-RL: Crean el \"Fondo de Desarrollo Agropecuario de la Región Lima - FONDAGRO LIMA\"",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/727333-1",
+   "versions": [
+    {
+     "from": "2011-12-15",
+     "units": 9,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/EtNPfB3t41GAxPZZpR7lVr/*/727333-1.pdf",
+     "sha256": "d4262d8b09632025ef5a0caeca051183fda43c55a0d182a360d13a19d3f22e5c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-003-2011-cr-rl",
+   "short": "Ordenanza Regional N° 003-2011-CR-RL",
+   "title": "Ordenanza Regional N° 003-2011-CR-RL: Aprueban Reglamento para el Desarrollo del Proceso del Presupuesto Participativo en el ámbito del Gobierno Regional para el Ejercicio Fiscal 2011",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/657146-9",
+   "versions": [
+    {
+     "from": "2011-06-27",
+     "units": 3,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/949XCZklqLyAyqhhfZzazu/*/657146-9.pdf",
+     "sha256": "7a56918e67615284237170c115172b34ebd9bbec8082cf016945e5eec5379614"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-002-2011-cr-rl",
+   "short": "Ordenanza Regional N° 002-2011-CR-RL",
+   "title": "Ordenanza Regional N° 002-2011-CR-RL: Aprueban TUPA del Gobierno Regional",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/657146-8",
+   "versions": [
+    {
+     "from": "2011-06-27",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/E4Y8zKWSK14Ab5v6YnJJ22/*/657146-8.pdf",
+     "sha256": "1c4386fb04503d39276189bbdf1e20990357896c20476ff20fbeb48cd8b9e9bf"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-005-2011-cr-rl",
+   "short": "Ordenanza Regional N° 005-2011-CR-RL",
+   "title": "Ordenanza Regional N° 005-2011-CR-RL: Aprueban el ROF y el CAP de la Unidad Ejecutora de la Red de Salud de Huarochirí, y el CAP del Hospital San Juan de Matucana",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/657146-10",
+   "versions": [
+    {
+     "from": "2011-06-27",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/3fxDNXgsq-b8xzSMjZ-1Bc/*/657146-10.pdf",
+     "sha256": "b5debe96f6dc1859003fae640788e958597c3f7ceb3c1c4f58252c0e4b4634a8"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-001-2011-cr-rl",
+   "short": "Ordenanza Regional N° 001-2011-CR-RL",
+   "title": "Ordenanza Regional N° 001-2011-CR-RL: Denominan en la jurisdicción del Gobierno Regional al período 2011 como \"Año Regional del Centenario del Nacimiento de José María Arguedas Altamirano\"",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/657146-7",
+   "versions": [
+    {
+     "from": "2011-06-27",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/6iUmt21Q4QBBEpuFJ-7LZ2/*/657146-7.pdf",
+     "sha256": "ec4ca016119e6793065c7376b36a548d352f866e0433b8bad16f30425c4be669"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-010-2010-cr-rl",
+   "short": "Ordenanza Regional N° 010-2010-CR-RL",
+   "title": "Ordenanza Regional N° 010-2010-CR-RL: Establecen que trabajadores del Gobierno Regional presenten Declaración Juradade no figurar inscritos como deudores alimentarios morosos",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/657146-3",
+   "versions": [
+    {
+     "from": "2011-06-26",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/8_mlBSmLqDr9Fif79vrfyZ/*/657146-3.pdf",
+     "sha256": "fbfa48feb8921f7102d4f45ecb1d0c10753dcfdda1c8fda9950ff267bb6ef4ce"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-012-2010-cr-rl",
+   "short": "Ordenanza Regional N° 012-2010-CR-RL",
+   "title": "Ordenanza Regional N° 012-2010-CR-RL: Conforman el Consejo Regional de la Juventud del Gobierno Regional deLima - COREJU Lima",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/657146-5",
+   "versions": [
+    {
+     "from": "2011-06-26",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/4YYUR-CT4u3Ai6niBMCR0K/*/657146-5.pdf",
+     "sha256": "592a83f78a1705bf1986213ab4c5efa08e1f44785b622e36c41cba1ddf7e8291"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-006-2010-cr-rl",
+   "short": "Ordenanza Regional N° 006-2010-CR-RL",
+   "title": "Ordenanza Regional N° 006-2010-CR-RL: Declaran a la jurisdicción territorial del Gobierno Regional libre de transgénicos",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/657146-2",
+   "versions": [
+    {
+     "from": "2011-06-26",
+     "units": 8,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/36REhiLeqmV8prK4K57v8H/*/657146-2.pdf",
+     "sha256": "b734c65f5cc24a38835d823bc22bcd77b049abf798665b550a4e0d5876bb932f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-011-2010-cr-rl",
+   "short": "Ordenanza Regional N° 011-2010-CR-RL",
+   "title": "Ordenanza Regional N° 011-2010-CR-RL: Declaran de prioridad regional políticas en materia de prevención y erradicación de la violencia familiar y sexual en mujeres, niñas, adolescentes y adulto mayor",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/657146-4",
+   "versions": [
+    {
+     "from": "2011-06-26",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/51HpBrheKgN9qL3uQHlQzt/*/657146-4.pdf",
+     "sha256": "2f046a61609a4b8f341fd63364efc7f6d8bd6d01df0884d761afc642d1eafdfe"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-003-2010-cr-rl",
+   "short": "Ordenanza Regional N° 003-2010-CR-RL",
+   "title": "Ordenanza Regional N° 003-2010-CR-RL: Crean la Oficina Regional de Defensa Civil (ORDC)",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/657146-1",
+   "versions": [
+    {
+     "from": "2011-06-26",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/ByE4t1YdKAl9rkc-y10bHt/*/657146-1.pdf",
+     "sha256": "8f7ff2c39a7104639bb4a6cb7e2bfe406df516b9708fca91c978d245c19dad6b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-004-2011-cr-rl",
+   "short": "Ordenanza Regional N° 004-2011-CR-RL",
+   "title": "Ordenanza Regional N° 004-2011-CR-RL: Aprueban Reglamento de Organización y Funciones y el Cuadro para Asignación de Personal de la Gerencia Subregional Lima Sur",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/652360-1",
+   "versions": [
+    {
+     "from": "2011-06-15",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/BZWevyin4tv80-UJWv0a8D/*/652360-1.pdf",
+     "sha256": "b70ab692736c726c669245694a08be5886e1de6a7f8682a908d94ab4c0e4582f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-008-2010-cr-rl",
+   "short": "Ordenanza Regional N° 008-2010-CR-RL",
+   "title": "Ordenanza Regional N° 008-2010-CR-RL: Amplían cronograma de actividades del Proceso del Presupuesto Participativo para el Año Fiscal 2011 en el ámbito del Gobierno Regional",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/562022-1",
+   "versions": [
+    {
+     "from": "2010-10-31",
+     "units": 3,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/4lFadRsJqIRBU731V3huEW/*/562022-1.pdf",
+     "sha256": "c0cf3402c8980c8185eac5f8ba1913670a1b10162f372848ae1dcd626aca22de"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-004-2010-cr-rl",
+   "short": "Ordenanza Regional N° 004-2010-CR-RL",
+   "title": "Ordenanza Regional N° 004-2010-CR-RL: Aprueban el Plan Maestro 2009 - 2013 del Área de Conservación Regional Albufera de Medio Mundo del distrito de Végueta, provincia de Huaura",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/562020-1",
+   "versions": [
+    {
+     "from": "2010-10-31",
+     "units": 3,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/5d7Vv-y14YL9Tedx4XFfg4/*/562020-1.pdf",
+     "sha256": "ab52a92d279fd6ef217b2e22fa6899b7563b8c91f7e77c72720f942f06ecdd59"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-005-2010-cr-rl",
+   "short": "Ordenanza Regional N° 005-2010-CR-RL",
+   "title": "Ordenanza Regional N° 005-2010-CR-RL: Declaran de interés público regional la protección y conservación ambiental del Humedal Lagunas El Paraíso ubicado en el distrito de Huacho",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/562020-2",
+   "versions": [
+    {
+     "from": "2010-10-31",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/ByRZ625oabjAYfZ5izpg89/*/562020-2.pdf",
+     "sha256": "5162358c462f0e1bffb2b0da5743a99b0f2c305823e76d8a6fd33cceb013bbdf"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-008-2009-cr-rl",
+   "short": "Ordenanza Regional N° 008-2009-CR-RL",
+   "title": "Ordenanza Regional N° 008-2009-CR-RL: Declaran el desarrollo del deporte como actividad prioritaria y de interés regional",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/475415-1",
+   "versions": [
+    {
+     "from": "2010-04-01",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/C7NpQY0sqrsB5b_NMfhDwR/*/475415-1.pdf",
+     "sha256": "b91604b9eba4f4ecd4520c69ff86525e0b810d3d18001b700388e91514aa6e63"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-001-2010-cr-rl",
+   "short": "Ordenanza Regional N° 001-2010-CR-RL",
+   "title": "Ordenanza Regional N° 001-2010-CR-RL: Aprueban la Modificación de Cuadros para Asignación de Personal de la Dirección Regional de Salud de Lima, de Servicios Básicos de Salud Cañete - Yauyos y de diversos hospitales",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/473845-1",
+   "versions": [
+    {
+     "from": "2010-03-28",
+     "units": 3,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/2O1Gi5FC4y_An63hY3f8oA/*/473845-1.pdf",
+     "sha256": "c2387510879a1c2a7787c5a4d1ff842dc26a5e8ea846cdd17610a23c6265d16d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-002-2009-cr-rl",
+   "short": "Ordenanza Regional N° 002-2009-CR-RL",
+   "title": "Ordenanza Regional N° 002-2009-CR-RL: Conforman el Consejo Regional de Salud del Gobierno Regional de Lima",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/356801-1",
+   "versions": [
+    {
+     "from": "2009-06-06",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/C7zvF568qVfALc_Iis4C7K/*/356801-1.pdf",
+     "sha256": "c39083a5e665275728e8ff6c41ccb13afd782b67484f5e220d5b1e0f2bf6d00d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-003-2009-cr-rl",
+   "short": "Ordenanza Regional N° 003-2009-CR-RL",
+   "title": "Ordenanza Regional N° 003-2009-CR-RL: Declaran de interés regional el Proyecto del Puerto Multipropósito de Chancay",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/356801-2",
+   "versions": [
+    {
+     "from": "2009-06-06",
+     "units": 3,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/5wLF0KFhaZ48SldwP9p4kH/*/356801-2.pdf",
+     "sha256": "f221399bb7f4cca06a1ad5c456cefbb1934815303c8f207896ee45398a0a8bdb"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-005-2009-cr-rl",
+   "short": "Ordenanza Regional N° 005-2009-CR-RL",
+   "title": "Ordenanza Regional N° 005-2009-CR-RL: Aprueban Reglamento para el desarrollo del Proceso del Presupuesto Participativo para el Año Fiscal 2010 en el ámbito del  Gobierno Regional de Lima y Cronograma de Actividades",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/356801-3",
+   "versions": [
+    {
+     "from": "2009-06-06",
+     "units": 4,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/Cixx8nInaHABh5qYxIkf7y/*/356801-3.pdf",
+     "sha256": "b0a2bf07e6a8455eca2a92958e6a9a42ba6c93162a0599d5b3eb7756bc52b43d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-001-2009-cr-rl",
+   "short": "Ordenanza Regional N° 001-2009-CR-RL",
+   "title": "Ordenanza Regional N° 001-2009-CR-RL: Declaran en situación de emergencia durante el año 2009 al Sector Educación del Gobierno Regional de Lima",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/351057-1",
+   "versions": [
+    {
+     "from": "2009-05-23",
+     "units": 9,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/3Op5jeLHaKoBdM_D_nmOZL/*/351057-1.pdf",
+     "sha256": "3a531e3a04f91846fe0581452d9a104823f87adc75b8b0573ddc34e9bc2715cb"
+    }
+   ]
   }
  ]
 }

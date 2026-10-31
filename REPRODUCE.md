@@ -184,20 +184,61 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-regional-009-2013-cr-rl` | Ordenanza Regional N° 009-2013-CR-RL: Crean el Consejo Regional de Trabajo y Promoción del Empleo, como órgano consultivo y de coordinación del Gobierno Regional de Lima | 1 | 2013-10-21 to 2013-10-21 |
 | `ordenanza-regional-012-2013-cr-rl` | Ordenanza Regional N° 012-2013-CR-RL: Modifican el Cuadro para Asignación de Personal - CAP del Gobierno Regional de Lima | 1 | 2013-10-21 to 2013-10-21 |
 | `ordenanza-regional-007-2013-cr-rl` | Ordenanza Regional N° 007-2013-CR-RL: Aprueban el Reglamento para el Desarrollo del Proceso del Presupuesto Participativo Basado en Resultados para el Año Fiscal 2014 del Gobierno Regional de Lima | 1 | 2013-10-21 to 2013-10-21 |
+| `ordenanza-regional-011-2013-cr-rl` | Ordenanza Regional N° 011-2013-CR-RL: Modifican y actualizan el Texto Único de Procedimientos Administrativos del Gobierno Regional de Lima | 1 | 2013-10-19 to 2013-10-19 |
+| `ordenanza-regional-001-2013-cr-rl` | Ordenanza Regional N° 001-2013-CR-RL: Aprueban el Reglamento que regula la prestación del Servicio de Transporte Terrestre de Personas, Carga y Mercancías en el Ámbito de la jurisdicción del Gobierno Regional de Lima | 1 | 2013-09-12 to 2013-09-12 |
+| `ordenanza-regional-016-2012-cr-rl` | Ordenanza Regional N° 016-2012-CR-RL: Aprueban Plan de Desarrollo Institucional 2012 - 2015 | 1 | 2013-01-25 to 2013-01-25 |
+| `ordenanza-regional-017-2012-cr-rl` | Ordenanza Regional N° 017-2012-CR-RL: Declaran el 9 de diciembre como el "Día contra la Corrupción" en el ámbito del Gobierno Regional de Lima | 1 | 2013-01-25 to 2013-01-25 |
+| `ordenanza-regional-015-2012-cr-rl` | Ordenanza Regional N° 015-2012-CR-RL: Establecen acciones para brindar atención especial a niños, mujeres gestantes, adultos mayores y personas con discapacidad en reparticiones del Gobierno Regional | 1 | 2013-01-18 to 2013-01-18 |
+| `ordenanza-regional-013-2012-cr-rl` | Ordenanza Regional N° 013-2012-CR-RL: Aprueban el Reglamento de Condecoraciones del Gobierno Regional de Lima
 
-The build made 170 commits:
+
+. | 1 | 2013-01-18 to 2013-01-18 |
+| `ordenanza-regional-012-2012-cr-rl` | Ordenanza Regional N° 012-2012-CR-RL: Modifican el Reglamento de Organización y Funciones del Gobierno Regional de Lima | 1 | 2013-01-18 to 2013-01-18 |
+| `ordenanza-regional-014-2012-cr-rl` | Ordenanza Regional N° 014-2012-CR-RL: Declaran de necesidad prioritaria el cumplimiento de las normas establecidas a favor de las personas con discapacidad | 1 | 2013-01-18 to 2013-01-18 |
+| `ordenanza-regional-011-2012-cr-rl` | Ordenanza Regional N° 011-2012-CR-RL: Aprueban Texto Único de Procedimientos Administrativos de la Dirección Regional de Salud Lima y Hospitales, sus requisitos y costos administrativos | 1 | 2012-11-08 to 2012-11-08 |
+| `ordenanza-regional-010-2012-cr-rl` | Ordenanza Regional N° 010-2012-CR-RL: Derogan la Ordenanza N° 006-2011-CR/RL | 1 | 2012-11-08 to 2012-11-08 |
+| `ordenanza-regional-009-2012-cr-rl` | Ordenanza Regional N° 009-2012-CR-RL: Modifican el Reglamento de Organización y Funciones del Gobierno Regional, el Cuadro para Asignación de Personal de la Región Lima y aprueban el ROF y  CAP de la Dirección Regional de Formalización de la Propiedad Rural - DIREFOR | 1 | 2012-11-08 to 2012-11-08 |
+| `ordenanza-regional-008-2012-cr-rl` | Ordenanza Regional N° 008-2012-CR-RL: Aprueban modificación del Cuadro de Asignación de Personal del Hospital de Chancay y Servicios Básicos de Salud para el proceso de Nombramiento del Año Fiscal 2012 | 1 | 2012-08-11 to 2012-08-11 |
+| `ordenanza-regional-007-2012-cr-rl` | Ordenanza Regional N° 007-2012-CR-RL: Modifican Ordenanza N° 001-2012-CR-RL en lo referente al Cuadro para Asignación de Personal de la Unidad Ejecutora 001 Región Lima | 1 | 2012-08-11 to 2012-08-11 |
+| `ordenanza-regional-006-2012-cr-rl` | Ordenanza Regional N° 006-2012-CR-RL: Aprueban modificación de los Cuadros para Asignación de Personal de la Dirección Regional de Salud Lima y de la Dirección de Red de Salud Canta | 1 | 2012-08-10 to 2012-08-10 |
+| `ordenanza-regional-005-2012-cr-rl` | Ordenanza Regional N° 005-2012-CR-RL: Aprueban Reglamento para el Desarrollo del Proceso del Presupuesto Participativo Basado en Resultados para el Año Fiscal 2013, en el ámbito del Gobierno Regional de Lima | 1 | 2012-08-10 to 2012-08-10 |
+| `ordenanza-regional-003-2012-cr-rl` | Ordenanza Regional N° 003-2012-CR-RL: Aprueban Reglamento de Organización y Funciones de la Dirección Regional de Transportes y Comunicaciones y modifican el Cuadro para Asignación de Personal de la Unidad Ejecutora Lima 001 Región Lima | 1 | 2012-08-09 to 2012-08-09 |
+| `ordenanza-regional-004-2012-cr-rl` | Ordenanza Regional N° 004-2012-CR-RL: Aprueban Proyecto Educativo Regional PER CARAL 2021 | 1 | 2012-08-09 to 2012-08-09 |
+| `ordenanza-regional-002-2012-cr-rl` | Ordenanza Regional N° 002-2012-CR-RL: Aprueban Plan Estratégico Regional Multisectorial para la prevención y control de las ITS y VIH/SIDA en la Región Lima 2011 - 2016 | 1 | 2012-08-09 to 2012-08-09 |
+| `ordenanza-regional-006-2011-cr-rl` | Ordenanza Regional N° 006-2011-CR-RL: Crean el "Fondo de Desarrollo Agropecuario de la Región Lima - FONDAGRO LIMA" | 1 | 2011-12-15 to 2011-12-15 |
+| `ordenanza-regional-003-2011-cr-rl` | Ordenanza Regional N° 003-2011-CR-RL: Aprueban Reglamento para el Desarrollo del Proceso del Presupuesto Participativo en el ámbito del Gobierno Regional para el Ejercicio Fiscal 2011 | 1 | 2011-06-27 to 2011-06-27 |
+| `ordenanza-regional-002-2011-cr-rl` | Ordenanza Regional N° 002-2011-CR-RL: Aprueban TUPA del Gobierno Regional | 1 | 2011-06-27 to 2011-06-27 |
+| `ordenanza-regional-005-2011-cr-rl` | Ordenanza Regional N° 005-2011-CR-RL: Aprueban el ROF y el CAP de la Unidad Ejecutora de la Red de Salud de Huarochirí, y el CAP del Hospital San Juan de Matucana | 1 | 2011-06-27 to 2011-06-27 |
+| `ordenanza-regional-001-2011-cr-rl` | Ordenanza Regional N° 001-2011-CR-RL: Denominan en la jurisdicción del Gobierno Regional al período 2011 como "Año Regional del Centenario del Nacimiento de José María Arguedas Altamirano" | 1 | 2011-06-27 to 2011-06-27 |
+| `ordenanza-regional-010-2010-cr-rl` | Ordenanza Regional N° 010-2010-CR-RL: Establecen que trabajadores del Gobierno Regional presenten Declaración Juradade no figurar inscritos como deudores alimentarios morosos | 1 | 2011-06-26 to 2011-06-26 |
+| `ordenanza-regional-012-2010-cr-rl` | Ordenanza Regional N° 012-2010-CR-RL: Conforman el Consejo Regional de la Juventud del Gobierno Regional deLima - COREJU Lima | 1 | 2011-06-26 to 2011-06-26 |
+| `ordenanza-regional-006-2010-cr-rl` | Ordenanza Regional N° 006-2010-CR-RL: Declaran a la jurisdicción territorial del Gobierno Regional libre de transgénicos | 1 | 2011-06-26 to 2011-06-26 |
+| `ordenanza-regional-011-2010-cr-rl` | Ordenanza Regional N° 011-2010-CR-RL: Declaran de prioridad regional políticas en materia de prevención y erradicación de la violencia familiar y sexual en mujeres, niñas, adolescentes y adulto mayor | 1 | 2011-06-26 to 2011-06-26 |
+| `ordenanza-regional-003-2010-cr-rl` | Ordenanza Regional N° 003-2010-CR-RL: Crean la Oficina Regional de Defensa Civil (ORDC) | 1 | 2011-06-26 to 2011-06-26 |
+| `ordenanza-regional-004-2011-cr-rl` | Ordenanza Regional N° 004-2011-CR-RL: Aprueban Reglamento de Organización y Funciones y el Cuadro para Asignación de Personal de la Gerencia Subregional Lima Sur | 1 | 2011-06-15 to 2011-06-15 |
+| `ordenanza-regional-008-2010-cr-rl` | Ordenanza Regional N° 008-2010-CR-RL: Amplían cronograma de actividades del Proceso del Presupuesto Participativo para el Año Fiscal 2011 en el ámbito del Gobierno Regional | 1 | 2010-10-31 to 2010-10-31 |
+| `ordenanza-regional-004-2010-cr-rl` | Ordenanza Regional N° 004-2010-CR-RL: Aprueban el Plan Maestro 2009 - 2013 del Área de Conservación Regional Albufera de Medio Mundo del distrito de Végueta, provincia de Huaura | 1 | 2010-10-31 to 2010-10-31 |
+| `ordenanza-regional-005-2010-cr-rl` | Ordenanza Regional N° 005-2010-CR-RL: Declaran de interés público regional la protección y conservación ambiental del Humedal Lagunas El Paraíso ubicado en el distrito de Huacho | 1 | 2010-10-31 to 2010-10-31 |
+| `ordenanza-regional-008-2009-cr-rl` | Ordenanza Regional N° 008-2009-CR-RL: Declaran el desarrollo del deporte como actividad prioritaria y de interés regional | 1 | 2010-04-01 to 2010-04-01 |
+| `ordenanza-regional-001-2010-cr-rl` | Ordenanza Regional N° 001-2010-CR-RL: Aprueban la Modificación de Cuadros para Asignación de Personal de la Dirección Regional de Salud de Lima, de Servicios Básicos de Salud Cañete - Yauyos y de diversos hospitales | 1 | 2010-03-28 to 2010-03-28 |
+| `ordenanza-regional-002-2009-cr-rl` | Ordenanza Regional N° 002-2009-CR-RL: Conforman el Consejo Regional de Salud del Gobierno Regional de Lima | 1 | 2009-06-06 to 2009-06-06 |
+| `ordenanza-regional-003-2009-cr-rl` | Ordenanza Regional N° 003-2009-CR-RL: Declaran de interés regional el Proyecto del Puerto Multipropósito de Chancay | 1 | 2009-06-06 to 2009-06-06 |
+| `ordenanza-regional-005-2009-cr-rl` | Ordenanza Regional N° 005-2009-CR-RL: Aprueban Reglamento para el desarrollo del Proceso del Presupuesto Participativo para el Año Fiscal 2010 en el ámbito del  Gobierno Regional de Lima y Cronograma de Actividades | 1 | 2009-06-06 to 2009-06-06 |
+| `ordenanza-regional-001-2009-cr-rl` | Ordenanza Regional N° 001-2009-CR-RL: Declaran en situación de emergencia durante el año 2009 al Sector Educación del Gobierno Regional de Lima | 1 | 2009-05-23 to 2009-05-23 |
+
+The build made 208 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 170 | first version of an act |
+| 208 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-10-31.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 170 laws in the record.
-- 340 tags.
+- 208 laws in the record.
+- 416 tags.
 
 ## Dates
 
@@ -209,7 +250,7 @@ When a law gives no date of its own, the default rule applies: Constitución Pol
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `25a6f72baa3bdeaa8b57de1a3fd76e07a1b91c543a57dba755b37be75402e8bc` (2492915 bytes).
+- Corpus: sha256 `34460ddcf8a16d11a55b0015ae5079145506313e757e11074c72bd1639e8ebb0` (3062894 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
