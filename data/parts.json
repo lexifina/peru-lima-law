@@ -169,6 +169,41 @@
     "ordenanza-regional-010-2014-cr-rl"
    ],
    "sha256": "a6cf97975b15864ba09cb6e5dbcb8a7af8613cee77b42c83957d62978d184fd4"
+  },
+  "33-runner-01.json": {
+   "acts": [
+    "ordenanza-regional-004-2018-cr-grl",
+    "ordenanza-regional-005-2019-cr-grl",
+    "ordenanza-regional-006-2019-cr-grl",
+    "ordenanza-regional-007-2013-cr-rl",
+    "ordenanza-regional-009-2013-cr-rl",
+    "ordenanza-regional-01-2015-cr-rl",
+    "ordenanza-regional-011-2019-cr-grl",
+    "ordenanza-regional-012-2013-cr-rl",
+    "ordenanza-regional-012-2019-cr-grl",
+    "ordenanza-regional-013-2019-cr-grl",
+    "ordenanza-regional-015-2018-cr-grl",
+    "ordenanza-regional-016-2017-cr-grl",
+    "ordenanza-regional-016-2019-cr-grl",
+    "ordenanza-regional-02-2015-cr-rl",
+    "ordenanza-regional-02-2020-cr-grl",
+    "ordenanza-regional-03-2015-cr-rl",
+    "ordenanza-regional-04-2015-cr-rl",
+    "ordenanza-regional-04-2020-cr-grl",
+    "ordenanza-regional-05-2015-cr-rl",
+    "ordenanza-regional-05-2016-cr-grl",
+    "ordenanza-regional-06-2015-cr-rl",
+    "ordenanza-regional-06-2019-cr-grl",
+    "ordenanza-regional-08-2014-cr-rl",
+    "ordenanza-regional-08-2020-cr-grl",
+    "ordenanza-regional-09-2014-cr-rl",
+    "ordenanza-regional-09-2020-cr-grl",
+    "ordenanza-regional-10-2020-cr-grl",
+    "ordenanza-regional-13-2020-cr-grl",
+    "ordenanza-regional-14-2020-cr-grl",
+    "ordenanza-regional-15-2020-cr-grl"
+   ],
+   "sha256": "5c4752b43d9f02c725a9935daeae5b8080700d2ac2c8681b7ddf36f077f41c27"
   }
  },
  "schema": 1

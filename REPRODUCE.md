@@ -154,20 +154,50 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-regional-013-2010-cr-rl` | Ordenanza Regional N° 013-2010-CR-RL: Aprueban Reglamento Interno del Consejo Regional | 1 | 2011-06-26 to 2011-06-26 |
 | `ordenanza-regional-02-2007-cr-rl` | Ordenanza Regional N° 02-2007-CR-RL: Aprueban creación del Programa de Riego Tecnificado en el ámbito del Gobierno Regional | 1 | 2007-04-25 to 2007-04-25 |
 | `ordenanza-regional-010-2014-cr-rl` | Ordenanza Regional N° 010-2014-CR-RL: Aprueban la institucionalización del tercer domingo de octubre como el "Día del Chancho al Palo" y evento de interés turístico regional en la provincia de Huaral | 1 | 2015-06-12 to 2015-06-12 |
+| `ordenanza-regional-15-2020-cr-grl` | Ordenanza Regional N° 15-2020-CR/GRL: Ordenanza que “crea la Red Regional de Mujeres Emprendedoras y Empresarias como mecanismo que promueve la autonomía económica de las mujeres, generación de servicios y herramientas de apoyo a la gestión de emprendimientos liderados por mujeres y su articulación  | 1 | 2021-02-26 to 2021-02-26 |
+| `ordenanza-regional-14-2020-cr-grl` | Ordenanza Regional N° 14-2020-CR/GRL: Declaran de necesidad pública y de interés regional, como política sectorial, las actividades de promoción de plantas lecheras en las cuencas productivas del ámbito jurisdiccional del Gobierno Regional de Lima | 1 | 2021-02-26 to 2021-02-26 |
+| `ordenanza-regional-13-2020-cr-grl` | Ordenanza Regional N° 13-2020-CR/GRL: Declaran de necesidad pública y de prioridad regional, la Gestión Integral de los Recursos Hídricos de la Cuenca del Río Huaura | 1 | 2021-02-26 to 2021-02-26 |
+| `ordenanza-regional-10-2020-cr-grl` | Ordenanza Regional N° 10-2020-CR/GRL: Ordenanza que promueve la motivación en el ejercicio profesional del personal docente, administrativo y directivo de las instituciones educativas de educación básica regular a través de la creación del concurso anual regional para reconocimiento de la proactivid | 1 | 2021-02-26 to 2021-02-26 |
+| `ordenanza-regional-08-2020-cr-grl` | Ordenanza Regional N° 08-2020-CR/GRL: Aprueban el Plan Regional de Integridad y Lucha contra la Corrupción Región Lima 2020-2021 | 1 | 2021-02-26 to 2021-02-26 |
+| `ordenanza-regional-09-2020-cr-grl` | Ordenanza Regional N° 09-2020-CR/GRL: Ordenanza Regional que aprueba la modificación del Cuadro para Asignacion de Personal Provisional - CAP  Provisional de las Unidades Ejecutoras de la Dirección Regional de Salud Lima | 1 | 2020-12-09 to 2020-12-09 |
+| `ordenanza-regional-06-2019-cr-grl` | Ordenanza Regional N° 06-2019-CR/GRL: Ordenanza Regional para la conservación y restauración de los pastos bosques y plantaciones forestales en la Región Lima | 1 | 2020-11-07 to 2020-11-07 |
+| `ordenanza-regional-016-2019-cr-grl` | Ordenanza Regional N° 016-2019-CR-GRL: Ordenanza Regional que declara de interés y prioridad regional la implementación de mecanismos complementarios a las acciones que viene realizando el SENASA, para el control y erradicación de la mosca de la fruta, incluyendo la sostenibilidad en el ámbito de la | 1 | 2020-11-07 to 2020-11-07 |
+| `ordenanza-regional-012-2019-cr-grl` | Ordenanza Regional N° 012-2019-CR-GRL: Aprueban Reglamento de Supervisión y Fiscalización para Actividades de la Pequeña Minería y Minería Artesanal en el departamento de Lima | 1 | 2020-11-01 to 2020-11-01 |
+| `ordenanza-regional-04-2020-cr-grl` | Ordenanza Regional N° 04-2020-CR/GRL: Establecen que las Instituciones Educativas Públicas de Educación Básica Regular, dentro del ámbito geográfico del Gobierno Regional de Lima, deben encontrarse a disposición, para ser empleadas como centros de aislamiento para pacientes sospechosos y con diagnós | 1 | 2020-10-15 to 2020-10-15 |
+| `ordenanza-regional-013-2019-cr-grl` | Ordenanza Regional N° 013-2019-CR-GRL: Ratifican el “Plan Regional de Seguridad Ciudadana 2019” del Gobierno Regional de Lima | 1 | 2020-09-04 to 2020-09-04 |
+| `ordenanza-regional-006-2019-cr-grl` | Ordenanza Regional N° 006-2019-CR-GRL: Ordenanza Regional que aprueba el Cuadro para Asignación de Personal Provisional - CAP Provisional de la Unidad Ejecutora 002-1325; Región Lima- Lima Sur | 1 | 2020-06-26 to 2020-06-26 |
+| `ordenanza-regional-005-2019-cr-grl` | Ordenanza Regional N° 005-2019-CR-GRL: Ordenanza que establece disposiciones para la disminución progresiva del plástico de un solo uso y los recipientes o envases descartables en la Región Lima, en cumplimiento al marco normativo de la Ley N° 30884 y su Reglamento | 1 | 2020-06-26 to 2020-06-26 |
+| `ordenanza-regional-011-2019-cr-grl` | Ordenanza Regional N° 011-2019-CR-GRL: Ordenanza Regional que declara de Interés y Prioridad Regional la Promoción Integral del Sector Productivo Lácteo Regional y crea el Consejo Regional de la Leche | 1 | 2020-06-13 to 2020-06-13 |
+| `ordenanza-regional-02-2020-cr-grl` | Ordenanza Regional N° 02-2020-CR/GRL: Ordenanza Regional que modifica el Reglamento Interno del Consejo Regional | 1 | 2020-05-23 to 2020-05-23 |
+| `ordenanza-regional-015-2018-cr-grl` | Ordenanza Regional N° 015-2018-CR-GRL: Ordenanza Regional que modifica el Reglamento Interno del Consejo Regional de Lima | 1 | 2019-02-14 to 2019-02-14 |
+| `ordenanza-regional-004-2018-cr-grl` | Ordenanza Regional N° 004-2018-CR-GRL: Ordenanza Regional que declara de Interés y Prioridad Regional la implementación de Mecanismos de Retribución por Servicios Ecosistémicos (MERESE) y reconoce la conformación de Plataformas de Buena Gobernanza en las diferentes cuencas del ámbito del Gobierno Re | 1 | 2018-05-24 to 2018-05-24 |
+| `ordenanza-regional-016-2017-cr-grl` | Ordenanza Regional N° 016-2017-CR-GRL: Ordenanza Regional que instituye como símbolos regionales: la bandera, el escudo y el himno del Gobierno Regional de Lima | 1 | 2018-03-04 to 2018-03-04 |
+| `ordenanza-regional-05-2016-cr-grl` | Ordenanza Regional N° 05-2016-CR/GRL: Aprueban la Constitución de la “Mancomunidad Regional Pacífico Centro Amazónica” | 1 | 2016-06-10 to 2016-06-10 |
+| `ordenanza-regional-09-2014-cr-rl` | Ordenanza Regional N° 09-2014-CR-RL: Aprueban el Plan Maestro 2015-2019 del Área de Conservación Regional Albufera de Medio Mundo | 1 | 2015-06-12 to 2015-06-12 |
+| `ordenanza-regional-02-2015-cr-rl` | Ordenanza Regional N° 02-2015-CR-RL: Declarán de interés público y de prioridad regional la recuperación y categorización de la zona denominada "Laguna Encantada", ubicada en el distrito San Luis - Cañete | 1 | 2015-06-12 to 2015-06-12 |
+| `ordenanza-regional-04-2015-cr-rl` | Ordenanza Regional N° 04-2015-CR-RL: Ordenanza Regional que declara de Interés Público y Prioridad Regional el "Programa de Saneamiento Físico Legal de las Instituciones Educativas y Establecimientos de Salud", del ámbito del Gobierno Regional de Lima | 1 | 2015-05-29 to 2015-05-29 |
+| `ordenanza-regional-06-2015-cr-rl` | Ordenanza Regional N° 06-2015-CR-RL: Aprueban la creación del Comité Regional Intergubernamental de Inversiones en Salud -CRIIS Lima | 1 | 2015-05-29 to 2015-05-29 |
+| `ordenanza-regional-05-2015-cr-rl` | Ordenanza Regional N° 05-2015-CR-RL: Ordenanza Regional que declara de Interés Público y Prioridad Regional la Recuperación y Categorización como Área Natural Protegida, a la Zona Reservada Denominada "Los Humedales de Puerto Viejo", ubicada en el distrito de San Antonio, provincia de Cañete | 1 | 2015-05-29 to 2015-05-29 |
+| `ordenanza-regional-03-2015-cr-rl` | Ordenanza Regional N° 03-2015-CR-RL: Establecen el Marco Regulatorio sobre la prohibición de avocamiento indebido en trámites pendientes de resolver por el Poder Judicial en el ámbito del Gobierno Regional de Lima | 1 | 2015-05-08 to 2015-05-08 |
+| `ordenanza-regional-01-2015-cr-rl` | Ordenanza Regional N° 01-2015-CR-RL: Ordenanza Regional que aprueba el Cuadro para Asignación de Personal Provisional - CAP Provisional de las Unidades Ejecutoras de la Dirección Regional de Salud de Lima | 1 | 2015-04-19 to 2015-04-19 |
+| `ordenanza-regional-08-2014-cr-rl` | Ordenanza Regional N° 08-2014-CR-RL: Aprueban modificación del Reglamento de Organización y Funciones - ROF del Hospital de Barranca, Hospital Regional de Huacho, Hospital de Chancay, Hospital San Juan Bautista de Huaral y Hospital Rezola | 1 | 2015-04-19 to 2015-04-19 |
+| `ordenanza-regional-009-2013-cr-rl` | Ordenanza Regional N° 009-2013-CR-RL: Crean el Consejo Regional de Trabajo y Promoción del Empleo, como órgano consultivo y de coordinación del Gobierno Regional de Lima | 1 | 2013-10-21 to 2013-10-21 |
+| `ordenanza-regional-012-2013-cr-rl` | Ordenanza Regional N° 012-2013-CR-RL: Modifican el Cuadro para Asignación de Personal - CAP del Gobierno Regional de Lima | 1 | 2013-10-21 to 2013-10-21 |
+| `ordenanza-regional-007-2013-cr-rl` | Ordenanza Regional N° 007-2013-CR-RL: Aprueban el Reglamento para el Desarrollo del Proceso del Presupuesto Participativo Basado en Resultados para el Año Fiscal 2014 del Gobierno Regional de Lima | 1 | 2013-10-21 to 2013-10-21 |
 
-The build made 140 commits:
+The build made 170 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 140 | first version of an act |
+| 170 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-10-31.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 140 laws in the record.
-- 280 tags.
+- 170 laws in the record.
+- 340 tags.
 
 ## Dates
 
@@ -179,13 +209,13 @@ When a law gives no date of its own, the default rule applies: Constitución Pol
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `4561b16d267edc2018c4f37a74a4485157afcadaebdf61716f41f46321dfc963` (2053868 bytes).
+- Corpus: sha256 `25a6f72baa3bdeaa8b57de1a3fd76e07a1b91c543a57dba755b37be75402e8bc` (2492915 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-140 versions of 140 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 

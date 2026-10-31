@@ -8,7 +8,7 @@ The text is in Spanish, exactly as El Peruano prints it.
 
 ## What this repository holds
 
-140 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
+170 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
 
 | Folder | Ordinance | Date |
 | --- | --- | --- |
@@ -152,6 +152,36 @@ The text is in Spanish, exactly as El Peruano prints it.
 | `ordenanza-regional-013-2010-cr-rl/` | Ordenanza Regional N° 013-2010-CR-RL: Aprueban Reglamento Interno del Consejo Regional | in force 26 June 2011 |
 | `ordenanza-regional-02-2007-cr-rl/` | Ordenanza Regional N° 02-2007-CR-RL: Aprueban creación del Programa de Riego Tecnificado en el ámbito del Gobierno Regional | in force 25 April 2007 |
 | `ordenanza-regional-010-2014-cr-rl/` | Ordenanza Regional N° 010-2014-CR-RL: Aprueban la institucionalización del tercer domingo de octubre como el "Día del Chancho al Palo" y evento de interés turís… | in force 12 June 2015 |
+| `ordenanza-regional-15-2020-cr-grl/` | Ordenanza Regional N° 15-2020-CR/GRL: Ordenanza que “crea la Red Regional de Mujeres Emprendedoras y Empresarias como mecanismo que promueve la autonomía económ… | in force 26 February 2021 |
+| `ordenanza-regional-14-2020-cr-grl/` | Ordenanza Regional N° 14-2020-CR/GRL: Declaran de necesidad pública y de interés regional, como política sectorial, las actividades de promoción de plantas lech… | in force 26 February 2021 |
+| `ordenanza-regional-13-2020-cr-grl/` | Ordenanza Regional N° 13-2020-CR/GRL: Declaran de necesidad pública y de prioridad regional, la Gestión Integral de los Recursos Hídricos de la Cuenca del Río H… | in force 26 February 2021 |
+| `ordenanza-regional-10-2020-cr-grl/` | Ordenanza Regional N° 10-2020-CR/GRL: Ordenanza que promueve la motivación en el ejercicio profesional del personal docente, administrativo y directivo de las i… | in force 26 February 2021 |
+| `ordenanza-regional-08-2020-cr-grl/` | Ordenanza Regional N° 08-2020-CR/GRL: Aprueban el Plan Regional de Integridad y Lucha contra la Corrupción Región Lima 2020-2021 | in force 26 February 2021 |
+| `ordenanza-regional-09-2020-cr-grl/` | Ordenanza Regional N° 09-2020-CR/GRL: Ordenanza Regional que aprueba la modificación del Cuadro para Asignacion de Personal Provisional - CAP  Provisional de la… | in force 9 December 2020 |
+| `ordenanza-regional-06-2019-cr-grl/` | Ordenanza Regional N° 06-2019-CR/GRL: Ordenanza Regional para la conservación y restauración de los pastos bosques y plantaciones forestales en la Región Lima | in force 7 November 2020 |
+| `ordenanza-regional-016-2019-cr-grl/` | Ordenanza Regional N° 016-2019-CR-GRL: Ordenanza Regional que declara de interés y prioridad regional la implementación de mecanismos complementarios a las acci… | in force 7 November 2020 |
+| `ordenanza-regional-012-2019-cr-grl/` | Ordenanza Regional N° 012-2019-CR-GRL: Aprueban Reglamento de Supervisión y Fiscalización para Actividades de la Pequeña Minería y Minería Artesanal en el depar… | in force 1 November 2020 |
+| `ordenanza-regional-04-2020-cr-grl/` | Ordenanza Regional N° 04-2020-CR/GRL: Establecen que las Instituciones Educativas Públicas de Educación Básica Regular, dentro del ámbito geográfico del Gobiern… | in force 15 October 2020 |
+| `ordenanza-regional-013-2019-cr-grl/` | Ordenanza Regional N° 013-2019-CR-GRL: Ratifican el “Plan Regional de Seguridad Ciudadana 2019” del Gobierno Regional de Lima | in force 4 September 2020 |
+| `ordenanza-regional-006-2019-cr-grl/` | Ordenanza Regional N° 006-2019-CR-GRL: Ordenanza Regional que aprueba el Cuadro para Asignación de Personal Provisional - CAP Provisional de la Unidad Ejecutora… | in force 26 June 2020 |
+| `ordenanza-regional-005-2019-cr-grl/` | Ordenanza Regional N° 005-2019-CR-GRL: Ordenanza que establece disposiciones para la disminución progresiva del plástico de un solo uso y los recipientes o enva… | in force 26 June 2020 |
+| `ordenanza-regional-011-2019-cr-grl/` | Ordenanza Regional N° 011-2019-CR-GRL: Ordenanza Regional que declara de Interés y Prioridad Regional la Promoción Integral del Sector Productivo Lácteo Regiona… | in force 13 June 2020 |
+| `ordenanza-regional-02-2020-cr-grl/` | Ordenanza Regional N° 02-2020-CR/GRL: Ordenanza Regional que modifica el Reglamento Interno del Consejo Regional | in force 23 May 2020 |
+| `ordenanza-regional-015-2018-cr-grl/` | Ordenanza Regional N° 015-2018-CR-GRL: Ordenanza Regional que modifica el Reglamento Interno del Consejo Regional de Lima | in force 14 February 2019 |
+| `ordenanza-regional-004-2018-cr-grl/` | Ordenanza Regional N° 004-2018-CR-GRL: Ordenanza Regional que declara de Interés y Prioridad Regional la implementación de Mecanismos de Retribución por Servici… | in force 24 May 2018 |
+| `ordenanza-regional-016-2017-cr-grl/` | Ordenanza Regional N° 016-2017-CR-GRL: Ordenanza Regional que instituye como símbolos regionales: la bandera, el escudo y el himno del Gobierno Regional de Lima | in force 4 March 2018 |
+| `ordenanza-regional-05-2016-cr-grl/` | Ordenanza Regional N° 05-2016-CR/GRL: Aprueban la Constitución de la “Mancomunidad Regional Pacífico Centro Amazónica” | in force 10 June 2016 |
+| `ordenanza-regional-09-2014-cr-rl/` | Ordenanza Regional N° 09-2014-CR-RL: Aprueban el Plan Maestro 2015-2019 del Área de Conservación Regional Albufera de Medio Mundo | in force 12 June 2015 |
+| `ordenanza-regional-02-2015-cr-rl/` | Ordenanza Regional N° 02-2015-CR-RL: Declarán de interés público y de prioridad regional la recuperación y categorización de la zona denominada "Laguna Encantad… | in force 12 June 2015 |
+| `ordenanza-regional-04-2015-cr-rl/` | Ordenanza Regional N° 04-2015-CR-RL: Ordenanza Regional que declara de Interés Público y Prioridad Regional el "Programa de Saneamiento Físico Legal de las Inst… | in force 29 May 2015 |
+| `ordenanza-regional-06-2015-cr-rl/` | Ordenanza Regional N° 06-2015-CR-RL: Aprueban la creación del Comité Regional Intergubernamental de Inversiones en Salud -CRIIS Lima | in force 29 May 2015 |
+| `ordenanza-regional-05-2015-cr-rl/` | Ordenanza Regional N° 05-2015-CR-RL: Ordenanza Regional que declara de Interés Público y Prioridad Regional la Recuperación y Categorización como Área Natural P… | in force 29 May 2015 |
+| `ordenanza-regional-03-2015-cr-rl/` | Ordenanza Regional N° 03-2015-CR-RL: Establecen el Marco Regulatorio sobre la prohibición de avocamiento indebido en trámites pendientes de resolver por el Pode… | in force 8 May 2015 |
+| `ordenanza-regional-01-2015-cr-rl/` | Ordenanza Regional N° 01-2015-CR-RL: Ordenanza Regional que aprueba el Cuadro para Asignación de Personal Provisional - CAP Provisional de las Unidades Ejecutor… | in force 19 April 2015 |
+| `ordenanza-regional-08-2014-cr-rl/` | Ordenanza Regional N° 08-2014-CR-RL: Aprueban modificación del Reglamento de Organización y Funciones - ROF del Hospital de Barranca, Hospital Regional de Huach… | in force 19 April 2015 |
+| `ordenanza-regional-009-2013-cr-rl/` | Ordenanza Regional N° 009-2013-CR-RL: Crean el Consejo Regional de Trabajo y Promoción del Empleo, como órgano consultivo y de coordinación del Gobierno Regiona… | in force 21 October 2013 |
+| `ordenanza-regional-012-2013-cr-rl/` | Ordenanza Regional N° 012-2013-CR-RL: Modifican el Cuadro para Asignación de Personal - CAP del Gobierno Regional de Lima | in force 21 October 2013 |
+| `ordenanza-regional-007-2013-cr-rl/` | Ordenanza Regional N° 007-2013-CR-RL: Aprueban el Reglamento para el Desarrollo del Proceso del Presupuesto Participativo Basado en Resultados para el Año Fisca… | in force 21 October 2013 |
 
 ## Source
 

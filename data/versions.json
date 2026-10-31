@@ -1960,6 +1960,426 @@
      "sha256": "e99f751419427976164b9a9e7e7f6175d699a5552ef5c843184de632b103e747"
     }
    ]
+  },
+  {
+   "slug": "ordenanza-regional-15-2020-cr-grl",
+   "short": "Ordenanza Regional N° 15-2020-CR/GRL",
+   "title": "Ordenanza Regional N° 15-2020-CR/GRL: Ordenanza que “crea la Red Regional de Mujeres Emprendedoras y Empresarias como mecanismo que promueve la autonomía económica de las mujeres, generación de servicios y herramientas de apoyo a la gestión de emprendimientos liderados por mujeres y su articulación ",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1929930-1",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 9,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/7p4Jdu26Kk5Bz1ry1a8F7_/*/1929930-1.pdf",
+     "sha256": "530ea03ff58097c1a614bd5c357aa7cbf6eaae84955353d9e3d57d6f3988da0a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-14-2020-cr-grl",
+   "short": "Ordenanza Regional N° 14-2020-CR/GRL",
+   "title": "Ordenanza Regional N° 14-2020-CR/GRL: Declaran de necesidad pública y de interés regional, como política sectorial, las actividades de promoción de plantas lecheras en las cuencas productivas del ámbito jurisdiccional del Gobierno Regional de Lima",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1929929-1",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/4fpn4kqNKHS9OVayO3sOQT/*/1929929-1.pdf",
+     "sha256": "3d61dc76e40ce9ff58f6ef576a4855cb60d0aacd37885c2715d6a81dfb2de362"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-13-2020-cr-grl",
+   "short": "Ordenanza Regional N° 13-2020-CR/GRL",
+   "title": "Ordenanza Regional N° 13-2020-CR/GRL: Declaran de necesidad pública y de prioridad regional, la Gestión Integral de los Recursos Hídricos de la Cuenca del Río Huaura",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1929928-1",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 9,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/1X3ir-T14TU8w0SpHo_4G0/*/1929928-1.pdf",
+     "sha256": "d09433b1d14db322b1115ca8c262f19dc0dbf0a0624604e29dfb7b42775d1b1b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-10-2020-cr-grl",
+   "short": "Ordenanza Regional N° 10-2020-CR/GRL",
+   "title": "Ordenanza Regional N° 10-2020-CR/GRL: Ordenanza que promueve la motivación en el ejercicio profesional del personal docente, administrativo y directivo de las instituciones educativas de educación básica regular a través de la creación del concurso anual regional para reconocimiento de la proactivid",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1929925-1",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/9gB8vIGKavyBr9Y-d087rE/*/1929925-1.pdf",
+     "sha256": "8b52209b347672528ce9371988638873dfa88c18f1b8c094c3e330e31c357599"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-08-2020-cr-grl",
+   "short": "Ordenanza Regional N° 08-2020-CR/GRL",
+   "title": "Ordenanza Regional N° 08-2020-CR/GRL: Aprueban el Plan Regional de Integridad y Lucha contra la Corrupción Región Lima 2020-2021",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1929924-1",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/Df9ydc0XKPdBLuOZm3XkIK/*/1929924-1.pdf",
+     "sha256": "c73310b3686586365ce0dbaa2347bc5e79ecd3c152023dd38eec64bf80edd2e3"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-09-2020-cr-grl",
+   "short": "Ordenanza Regional N° 09-2020-CR/GRL",
+   "title": "Ordenanza Regional N° 09-2020-CR/GRL: Ordenanza Regional que aprueba la modificación del Cuadro para Asignacion de Personal Provisional - CAP  Provisional de las Unidades Ejecutoras de la Dirección Regional de Salud Lima",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1909774-1",
+   "versions": [
+    {
+     "from": "2020-12-09",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/5JAKf4zq4dP8F4YwCNHnZu/*/1909774-1.pdf",
+     "sha256": "aa91942e9f3299141c8b0271a3e81e40e5b60a7d06bd1b8660734b71f4a24e7c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-06-2019-cr-grl",
+   "short": "Ordenanza Regional N° 06-2019-CR/GRL",
+   "title": "Ordenanza Regional N° 06-2019-CR/GRL: Ordenanza Regional para la conservación y restauración de los pastos bosques y plantaciones forestales en la Región Lima",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1900535-1",
+   "versions": [
+    {
+     "from": "2020-11-07",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/EiY9VG_raQJAjQL-B8ZOd6/*/1900535-2.pdf",
+     "sha256": "238781579f472bcc6f8104cda00250fb1d1b4962c07bee6924abcc9fc8f0964e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-016-2019-cr-grl",
+   "short": "Ordenanza Regional N° 016-2019-CR-GRL",
+   "title": "Ordenanza Regional N° 016-2019-CR-GRL: Ordenanza Regional que declara de interés y prioridad regional la implementación de mecanismos complementarios a las acciones que viene realizando el SENASA, para el control y erradicación de la mosca de la fruta, incluyendo la sostenibilidad en el ámbito de la",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1900533-1",
+   "versions": [
+    {
+     "from": "2020-11-07",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/6ELTyy6WKqZ9yvd5pyaM8A/*/1900533-2.pdf",
+     "sha256": "2365b85e953720818359618c095932254b067bd8c9b7261bbfb6f94fee1bc280"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-012-2019-cr-grl",
+   "short": "Ordenanza Regional N° 012-2019-CR-GRL",
+   "title": "Ordenanza Regional N° 012-2019-CR-GRL: Aprueban Reglamento de Supervisión y Fiscalización para Actividades de la Pequeña Minería y Minería Artesanal en el departamento de Lima",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1898357-1",
+   "versions": [
+    {
+     "from": "2020-11-01",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/78raXJ7P4nDBdGmBivkVFO/*/1898357-2.pdf",
+     "sha256": "ea12040e663e22202cd0fdc26cfd22ee90f730a0d865de9a377a7eabd0f63308"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-04-2020-cr-grl",
+   "short": "Ordenanza Regional N° 04-2020-CR/GRL",
+   "title": "Ordenanza Regional N° 04-2020-CR/GRL: Establecen que las Instituciones Educativas Públicas de Educación Básica Regular, dentro del ámbito geográfico del Gobierno Regional de Lima, deben encontrarse a disposición, para ser empleadas como centros de aislamiento para pacientes sospechosos y con diagnós",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1893030-1",
+   "versions": [
+    {
+     "from": "2020-10-15",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/1_sK4FWsqtn9MDIQQzgpMS/*/1893030-2.pdf",
+     "sha256": "3697d4d4f2742aa45f6ce18e8ad415f9986d4e52ace72be91cb1244f8907b894"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-013-2019-cr-grl",
+   "short": "Ordenanza Regional N° 013-2019-CR-GRL",
+   "title": "Ordenanza Regional N° 013-2019-CR-GRL: Ratifican el “Plan Regional de Seguridad Ciudadana 2019” del Gobierno Regional de Lima",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1881400-1",
+   "versions": [
+    {
+     "from": "2020-09-04",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/6RcWVEXYq598gGOSdvrOi2/*/1881400-1.pdf",
+     "sha256": "28b9dca969cf1cc16311b6f9489da9f8196639f63c0465c9892e08f443f429eb"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-006-2019-cr-grl",
+   "short": "Ordenanza Regional N° 006-2019-CR-GRL",
+   "title": "Ordenanza Regional N° 006-2019-CR-GRL: Ordenanza Regional que aprueba el Cuadro para Asignación de Personal Provisional - CAP Provisional de la Unidad Ejecutora 002-1325; Región Lima- Lima Sur",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1868832-2",
+   "versions": [
+    {
+     "from": "2020-06-26",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/30Sbq92Iq1nACdk1wYHgwT/*/1868832-2.pdf",
+     "sha256": "48a9758f4a567a71d3a93ae5ea06d85b56230e26158bcea40405dfcaba36c60b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-005-2019-cr-grl",
+   "short": "Ordenanza Regional N° 005-2019-CR-GRL",
+   "title": "Ordenanza Regional N° 005-2019-CR-GRL: Ordenanza que establece disposiciones para la disminución progresiva del plástico de un solo uso y los recipientes o envases descartables en la Región Lima, en cumplimiento al marco normativo de la Ley N° 30884 y su Reglamento",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1868832-1",
+   "versions": [
+    {
+     "from": "2020-06-26",
+     "units": 11,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/1teQW_BYaCCB0qaoiGE_Tr/*/1868832-1.pdf",
+     "sha256": "57c965f9303d7e91f0bd8852dfe08df26241aa0659d7888211a6196e5e2e9f8f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-011-2019-cr-grl",
+   "short": "Ordenanza Regional N° 011-2019-CR-GRL",
+   "title": "Ordenanza Regional N° 011-2019-CR-GRL: Ordenanza Regional que declara de Interés y Prioridad Regional la Promoción Integral del Sector Productivo Lácteo Regional y crea el Consejo Regional de la Leche",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1867762-1",
+   "versions": [
+    {
+     "from": "2020-06-13",
+     "units": 10,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/CxTn1LKoqH48Ux_skj2lbi/*/1867762-1.pdf",
+     "sha256": "aeb0dbef396a1aa226056dae0f5a5a63efd6b16c6883f684b63babe253eb8d9e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-02-2020-cr-grl",
+   "short": "Ordenanza Regional N° 02-2020-CR/GRL",
+   "title": "Ordenanza Regional N° 02-2020-CR/GRL: Ordenanza Regional que modifica el Reglamento Interno del Consejo Regional",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1866628-4",
+   "versions": [
+    {
+     "from": "2020-05-23",
+     "units": 8,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/10jOdjLuKMX8S8CB3kfgl7/*/1866628-4.pdf",
+     "sha256": "59f575c4a95bbee5490f2ced7652220e3917bd3340a47b35bedaecdedd8fc7e2"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-015-2018-cr-grl",
+   "short": "Ordenanza Regional N° 015-2018-CR-GRL",
+   "title": "Ordenanza Regional N° 015-2018-CR-GRL: Ordenanza Regional que modifica el Reglamento Interno del Consejo Regional de Lima",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1740403-1",
+   "versions": [
+    {
+     "from": "2019-02-14",
+     "units": 11,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/2bRhu6C4aCvBMTzOElBwJD/*/1740403-1.pdf",
+     "sha256": "416a36b1282a3e014915575b28c978627331f021d2ae57af019b78cb967e69a7"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-004-2018-cr-grl",
+   "short": "Ordenanza Regional N° 004-2018-CR-GRL",
+   "title": "Ordenanza Regional N° 004-2018-CR-GRL: Ordenanza Regional que declara de Interés y Prioridad Regional la implementación de Mecanismos de Retribución por Servicios Ecosistémicos (MERESE) y reconoce la conformación de Plataformas de Buena Gobernanza en las diferentes cuencas del ámbito del Gobierno Re",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1650106-1",
+   "versions": [
+    {
+     "from": "2018-05-24",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/AUGM--oZaXzANWXjrZMmOw/*/1650106-1.pdf",
+     "sha256": "ef77136b59735b452c49841d9a8702d893598e484b4722cd5d20e1ff2c74e37f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-016-2017-cr-grl",
+   "short": "Ordenanza Regional N° 016-2017-CR-GRL",
+   "title": "Ordenanza Regional N° 016-2017-CR-GRL: Ordenanza Regional que instituye como símbolos regionales: la bandera, el escudo y el himno del Gobierno Regional de Lima",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1621743-1",
+   "versions": [
+    {
+     "from": "2018-03-04",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/F-BrOFWrKyj91L9rz5IVCe/*/1621743-1.pdf",
+     "sha256": "091e4f2fe136e324cab7fb12b113bbbdcf28a5eac419738d2ce8759c549acba1"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-05-2016-cr-grl",
+   "short": "Ordenanza Regional N° 05-2016-CR/GRL",
+   "title": "Ordenanza Regional N° 05-2016-CR/GRL: Aprueban la Constitución de la “Mancomunidad Regional Pacífico Centro Amazónica”",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1390095-1",
+   "versions": [
+    {
+     "from": "2016-06-10",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/7zoc0RKfKzOAxC3BSTiEVo/*/1390095-1.pdf",
+     "sha256": "1c699a792f251def6509d4138ec2ce676b3008327143fc31404e25bef5cf9e0e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-09-2014-cr-rl",
+   "short": "Ordenanza Regional N° 09-2014-CR-RL",
+   "title": "Ordenanza Regional N° 09-2014-CR-RL: Aprueban el Plan Maestro 2015-2019 del Área de Conservación Regional Albufera de Medio Mundo",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1233032-1",
+   "versions": [
+    {
+     "from": "2015-06-12",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/2J9MR3V-KjDAxJpydirSu5/*/1233032-1.pdf",
+     "sha256": "58710a0cf64321b90a59257dbdabf565e84023892128eaa6277a0ff945baa56c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-02-2015-cr-rl",
+   "short": "Ordenanza Regional N° 02-2015-CR-RL",
+   "title": "Ordenanza Regional N° 02-2015-CR-RL: Declarán de interés público y de prioridad regional la recuperación y categorización de la zona denominada \"Laguna Encantada\", ubicada en el distrito San Luis - Cañete",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1233031-2",
+   "versions": [
+    {
+     "from": "2015-06-12",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/0LIy9iOH4ppASOmNR9KZiX/*/1233031-2.pdf",
+     "sha256": "06ed10290e911bb8bb8b2468d21a48f19d33b0bec470db726d8beb3d072e4e64"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-04-2015-cr-rl",
+   "short": "Ordenanza Regional N° 04-2015-CR-RL",
+   "title": "Ordenanza Regional N° 04-2015-CR-RL: Ordenanza Regional que declara de Interés Público y Prioridad Regional el \"Programa de Saneamiento Físico Legal de las Instituciones Educativas y Establecimientos de Salud\", del ámbito del Gobierno Regional de Lima",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1242304-1",
+   "versions": [
+    {
+     "from": "2015-05-29",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/BzH036yLqgw8uOKkeDNAW5/*/1242304-1.pdf",
+     "sha256": "0f5329f3db49517feec8a8807f99616d2fe1e3fea8bff93b31bd6ad63743c1f6"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-06-2015-cr-rl",
+   "short": "Ordenanza Regional N° 06-2015-CR-RL",
+   "title": "Ordenanza Regional N° 06-2015-CR-RL: Aprueban la creación del Comité Regional Intergubernamental de Inversiones en Salud -CRIIS Lima",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1242304-3",
+   "versions": [
+    {
+     "from": "2015-05-29",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/9OFy0NE74stAf-GM3E5TFP/*/1242304-3.pdf",
+     "sha256": "9eb6863f8bbff112755edadc1fbcb99bb4a82d6634e42b7a79a961b824be221f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-05-2015-cr-rl",
+   "short": "Ordenanza Regional N° 05-2015-CR-RL",
+   "title": "Ordenanza Regional N° 05-2015-CR-RL: Ordenanza Regional que declara de Interés Público y Prioridad Regional la Recuperación y Categorización como Área Natural Protegida, a la Zona Reservada Denominada \"Los Humedales de Puerto Viejo\", ubicada en el distrito de San Antonio, provincia de Cañete",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1242304-2",
+   "versions": [
+    {
+     "from": "2015-05-29",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/5KWT8vGjaWz9ANjLBD0ILg/*/1242304-2.pdf",
+     "sha256": "5dfbed3203f7b6e9fdb760062224b5a38ca619aff40c695660ecc60ae1d4e00a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-03-2015-cr-rl",
+   "short": "Ordenanza Regional N° 03-2015-CR-RL",
+   "title": "Ordenanza Regional N° 03-2015-CR-RL: Establecen el Marco Regulatorio sobre la prohibición de avocamiento indebido en trámites pendientes de resolver por el Poder Judicial en el ámbito del Gobierno Regional de Lima",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1233031-3",
+   "versions": [
+    {
+     "from": "2015-05-08",
+     "units": 6,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/D_7wWEYgqB09wVLSgj5-em/*/1233031-3.pdf",
+     "sha256": "92a67fd81ae16c87ea7d40f0cd3d8b7632932c75ff62ff68140f1901d3228af6"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-01-2015-cr-rl",
+   "short": "Ordenanza Regional N° 01-2015-CR-RL",
+   "title": "Ordenanza Regional N° 01-2015-CR-RL: Ordenanza Regional que aprueba el Cuadro para Asignación de Personal Provisional - CAP Provisional de las Unidades Ejecutoras de la Dirección Regional de Salud de Lima",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1225400-2",
+   "versions": [
+    {
+     "from": "2015-04-19",
+     "units": 9,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/84MPG2Hhq1TAj7OmrH1Zdr/*/1225400-2.pdf",
+     "sha256": "cc9e490931834934b18053a014b9d6447a11e84e194ff65bb7726317385e05a7"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-08-2014-cr-rl",
+   "short": "Ordenanza Regional N° 08-2014-CR-RL",
+   "title": "Ordenanza Regional N° 08-2014-CR-RL: Aprueban modificación del Reglamento de Organización y Funciones - ROF del Hospital de Barranca, Hospital Regional de Huacho, Hospital de Chancay, Hospital San Juan Bautista de Huaral y Hospital Rezola",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1225400-1",
+   "versions": [
+    {
+     "from": "2015-04-19",
+     "units": 5,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/7iv4oHLDaxABYzoTMOiuyw/*/1225400-1.pdf",
+     "sha256": "de41d498f4c4e3ab9f5a41ba4a1d0ec5ff51c2bd39c9256774aca782bf237326"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-009-2013-cr-rl",
+   "short": "Ordenanza Regional N° 009-2013-CR-RL",
+   "title": "Ordenanza Regional N° 009-2013-CR-RL: Crean el Consejo Regional de Trabajo y Promoción del Empleo, como órgano consultivo y de coordinación del Gobierno Regional de Lima",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1000820-2",
+   "versions": [
+    {
+     "from": "2013-10-21",
+     "units": 14,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/0ix7qBffa-wBUNX8a3iYw3/*/1000820-2.pdf",
+     "sha256": "4d7b2edb498fc1e78a620a4328b51c631a7c1e661854fe09b3654e954861fce1"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-012-2013-cr-rl",
+   "short": "Ordenanza Regional N° 012-2013-CR-RL",
+   "title": "Ordenanza Regional N° 012-2013-CR-RL: Modifican el Cuadro para Asignación de Personal - CAP del Gobierno Regional de Lima",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1000820-3",
+   "versions": [
+    {
+     "from": "2013-10-21",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/5_sx-cO7aDWAS37Mu2WPLd/*/1000820-3.pdf",
+     "sha256": "7e1ba3b339a0d377d1a81c4a78e9aa7b420c2c936bf67ac20a585782bea7bb02"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-regional-007-2013-cr-rl",
+   "short": "Ordenanza Regional N° 007-2013-CR-RL",
+   "title": "Ordenanza Regional N° 007-2013-CR-RL: Aprueban el Reglamento para el Desarrollo del Proceso del Presupuesto Participativo Basado en Resultados para el Año Fiscal 2014 del Gobierno Regional de Lima",
+   "url": "https://busquedas.elperuano.pe/dispositivo/NL/1000820-1",
+   "versions": [
+    {
+     "from": "2013-10-21",
+     "units": 7,
+     "source_url": "https://busquedas.elperuano.pe/api/archivo/file/8OmraE1BKA4BMp4-hH2lMf/*/1000820-1.pdf",
+     "sha256": "938b8d91a33b9c46550c55a67f8f5e74fb3d122c085a097737c91609be764fd7"
+    }
+   ]
   }
  ]
 }
