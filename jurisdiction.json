@@ -1,0 +1,11 @@
+{
+  "path": "pe-lim",
+  "code": "PE-LIM",
+  "name": "Lima (region)",
+  "level": "region",
+  "parent": "pe",
+  "repo": "https://github.com/lexifina/peru-lima-law",
+  "build": "built: 140 ordinances as published in El Peruano",
+  "language": "es",
+  "sources": 1
+}
